@@ -32,7 +32,6 @@ make install
 #### For Developers
 
 ```bash
-mkdir build
 cmake .
 make
 ./src/valauncher
